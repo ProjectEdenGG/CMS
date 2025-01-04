@@ -1,0 +1,179 @@
+{
+	"Aether": {
+		"tags": [ "Minigames", "Team Deathmatch" ],
+		"builders":[ "Zizitt", "Steve", "LoneRanger", "TemplarAzrael", "DKing2001", "Sparkess" ]
+	},
+	"Angels Valley": {
+		"tags": [ "Minigames", "Capture the Flag" ],
+		"builders": [ "Steve", "Zizitt", "LoneRanger", "56Ninjas", "Squidlington_", "Sparkess", "Trizexar" ]
+	},
+	"Bear Fair": {
+		"tags": [ "Events" ],
+		"builders": [ "Thunder", "Linkinhood", "thepongodongo" ]
+	},
+	"Bridgeroni": {
+		"tags": [ "Survival" ],
+		"builders": [ "Valkyrie", "Savaroni", "ItsGili" ]
+	},
+	"Capshire Hold": {
+		"tags": [ "Survival" ],
+		"builders": [ "PureClarity" ],
+		"map": "https://map.projecteden.gg/#legacy1:-10656:66:-10763:228:-0.48:0.95:0:0:perspective"
+	},
+	"Cocytus Pain": {
+		"tags": [ "Minigames", "Paintball" ],
+		"builders": [ "Sparkess" ]
+	},
+	"Colormatic": {
+		"tags": [ "Minigames", "Paintball" ],
+		"builders": [ "DKing2001" ]
+	},
+	"Deaths Manor": {
+		"tags": [ "Build Contests", "Minigames", "Juggernaut" ],
+		"builders": [ "thanhphan" ]
+	},
+	"Desert Warfare": {
+		"tags": [ "Minigames", "Paintball" ],
+		"builders": [ "_leroy", "Steve" ]
+	},
+	"Drakonus": {
+		"tags": [ "Build Contests", "Minigames", "Murder" ],
+		"builders": [ "Sparkess" ]
+	},
+	"Duskrift": {
+		"tags": [ "Survival" ],
+		"builders": [ "Linkinhood" ]
+	},
+	"Imperial Caverns": {
+		"tags": [ "Build Contests" ],
+		"builders": [ "Power" ]
+	},
+	"Dwarven City": {
+		"tags": [ "Build Contests" ],
+		"builders": [ "Phoebe" ]
+	},
+	"Eastwell Plaza": {
+		"tags": [ "Shops" ],
+		"builders": [ "Power" ]
+	},
+	"Eden": {
+		"tags": [ "Creative" ],
+		"builders": [ "Power" ]
+	},
+	"Eggstraterrestrial": {
+		"tags": [ "Minigames", "Spleef" ],
+		"builders": [ "Valkyrie", "Bri" ]
+	},
+	"Ellwood Keep": {
+		"tags": [ "Siege", "Minigames" ],
+		"builders": [ "Steve", "Thunder" ]
+	},
+	"Etherion Valley": {
+		"tags": [ "Minigames", "Capture the Flag" ],
+		"builders": [ "Steve", "Zizitt" ]
+	},
+	"Firefly City": {
+		"tags": [ "Minigames", "Infection" ],
+		"builders": [ "Steve" ]
+	},
+	"Firefly Spawn": {
+		"builders": [ "Zizitt" ]
+	},
+	"Forgotten Gulch": {
+		"tags": [ "Minigames", "Capture the Flag" ],
+		"builders": [ "Thunder", "Locklan" ]
+	},
+	"FSS Centaur": {
+		"tags": [ "Minigames", "Siege" ],
+		"builders": [ "Thunder" ]
+	},
+	"Kodaverse": {
+		"tags": [ "Build Contests" ],
+		"builders": [ "_leroy" ]
+	},
+	"Lazoria": {
+		"tags": [ "Minigames", "Infection" ],
+		"builders": [ "Wakka", "MaxAlex2000", "GoddessOfNyx" ]
+	},
+	"Longreach": {
+		"tags": [ "Minigames", "Hide and Seek" ],
+		"builders": [ "Arby" ]
+	},
+	"Mall of Emporia": {
+		"tags": [ "Shops" ],
+		"builders": [ "Power" ]
+	},
+	"Midtown": {
+		"tags": [ "Minigames", "Hide and Seek" ],
+		"builders": [ "Thunder", "Wakka", "Valilla" ]
+	},
+	"Minigame lobby": {
+		"tags": [ "Minigames" ],
+		"builders": [ "Sparkess" ]
+	},
+	"Missing at the Mansion": {
+		"tags": [ "Events" ],
+		"builders": [ "Thunder", "Valilla", "Wakka" ]
+	},
+	"Olympus": {
+		"tags": [ "Survival" ],
+		"builders": [ "Amixalot", "SarahBearah" ]
+	},
+	"Paris": {
+		"tags": [ "Minigames", "Splegg", "Spleef" ],
+		"builders": [ "Bri" ]
+	},
+	"Plots": {
+		"tags": [ "Creative" ],
+		"builders": [ "Power" ]
+	},
+	"Pugmas Village 2018": {
+		"tags": [ "Events" ],
+		"builders": [ "Panda" ]
+	},
+	"Revenge": {
+		"tags": [ "Minigames", "Team Deathmatch" ],
+		"builders": [ "Sparkess" ]
+	},
+	"Ruined Kingdom": {
+		"tags": [ "Minigames", "Infection" ],
+		"builders": [ "Zizitt" ]
+	},
+	"Sodai Temple": {
+		"tags": [ "Minigames", "Murder" ],
+		"builders": [ "MinecraftKairi" ]
+	},
+	"South Warp": {
+		"builders": [ "Sparkess" ]
+	},
+	"Spawn": {
+		"builders": [ "Steve", "Linkinhood" ]
+	},
+	"StarFox": {
+		"tags": [ "Minigames", "Dogfighting" ],
+		"builders": [ "Thunder" ]
+	},
+	"Tree Top": {
+		"tags": [ "Survival" ],
+		"builders": [ "Amixalot", "SarahBearah" ]
+	},
+	"Varanasith": {
+		"tags": [ "Survival" ],
+		"builders": [ "Panda" ]
+	},
+	"Whiterun": {
+		"tags": [ "Minigames", "Free For All" ],
+		"builders": [ "Sparkess" ]
+	},
+	"Whitmore Estate": {
+		"tags": [ "Survival" ],
+		"builders": [ "Power" ]
+	},
+	"Wither Arena": {
+		"builders": [ "Panda" ]
+	},
+	"Yuletide at Hightide": {
+		"tags": [ "Survival" ],
+		"builders": [ "Valkyrie", "Bri", "RoastedJames", "JumboTwister" ]
+	}
+}
