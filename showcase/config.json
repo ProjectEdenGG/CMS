@@ -7,7 +7,7 @@
 		"tags": [ "Minigames", "Capture the Flag" ],
 		"builders": [ "Steve", "Zizitt", "LoneRanger", "56Ninjas", "Squidlington_", "Sparkess", "Trizexar" ]
 	},
-	"Bear Fair": {
+	"Bear Fair 2018": {
 		"tags": [ "Events" ],
 		"builders": [ "Thunder", "Linkinhood", "thepongodongo" ]
 	},
@@ -146,7 +146,7 @@
 	"South Warp": {
 		"builders": [ "Sparkess" ]
 	},
-	"Spawn": {
+	"Old Survival Spawn": {
 		"builders": [ "Steve", "Linkinhood" ]
 	},
 	"StarFox": {
