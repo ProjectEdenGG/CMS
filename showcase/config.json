@@ -1,10 +1,10 @@
 {
 	"Aether": {
-		"tags": [ "Minigames", "Team Deathmatch" ],
-		"builders":[ "Zizitt", "Steve", "LoneRanger", "TemplarAzrael", "DKing2001", "Sparkess" ]
+		"tags": [ "Minigames" ],
+		"builders":[ "Zizitt", "Steve", "LoneRanger", "TemplarAzrael", "Merchant_Ships", "Sparkess" ]
 	},
 	"Angels Valley": {
-		"tags": [ "Minigames", "Capture the Flag" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Steve", "Zizitt", "LoneRanger", "56Ninjas", "Squidlington_", "Sparkess", "Trizexar" ]
 	},
 	"Bear Fair 2018": {
@@ -32,15 +32,15 @@
 		"builders": [ "Valilla" ]
 	},
 	"Deaths Manor": {
-		"tags": [ "Build Contests", "Minigames", "Juggernaut" ],
+		"tags": [ "Build Contests", "Minigames" ],
 		"builders": [ "thanhphan" ]
 	},
 	"Desert Warfare": {
-		"tags": [ "Minigames", "Paintball" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "_leroy", "Steve" ]
 	},
 	"Drakonus": {
-		"tags": [ "Build Contests", "Minigames", "Murder" ],
+		"tags": [ "Build Contests", "Minigames" ],
 		"builders": [ "Sparkess" ]
 	},
 	"Duskrift": {
@@ -64,30 +64,30 @@
 		"builders": [ "Power" ]
 	},
 	"Eggstraterrestrial": {
-		"tags": [ "Minigames", "Spleef" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Valkyrie", "Bri" ]
 	},
 	"Ellwood Keep": {
-		"tags": [ "Siege", "Minigames" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Steve", "Thunder" ]
 	},
 	"Eredhil": {
-		"tags": [ "Siege", "Minigames" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Power", "Senmove" ]
 	},
 	"Etherion Valley": {
-		"tags": [ "Minigames", "Capture the Flag" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Steve", "Zizitt" ]
 	},
 	"Firefly City": {
-		"tags": [ "Minigames", "Infection" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Steve" ]
 	},
 	"Firefly Spawn": {
 		"builders": [ "Zizitt" ]
 	},
 	"Forgotten Gulch": {
-		"tags": [ "Minigames", "Capture the Flag" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Thunder", "Locklan" ]
 	},
 	"FSS Centaur": {
@@ -103,19 +103,19 @@
 		"builders": [ "Bri" ]
 	},
 	"Lazoria": {
-		"tags": [ "Minigames", "Infection" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Wakka", "MaxAlex2000", "GoddessOfNyx" ]
 	},
 	"Longreach": {
-		"tags": [ "Minigames", "Hide and Seek" ],
-		"builders": [ "Arby" ]
+		"tags": [ "Minigames" ],
+		"builders": [ "Arby", "Wakka" ]
 	},
 	"Mall of Emporia": {
 		"tags": [ "Shops" ],
 		"builders": [ "Power" ]
 	},
 	"Midtown": {
-		"tags": [ "Minigames", "Hide and Seek" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Thunder", "Wakka", "Valilla" ]
 	},
 	"Minigame Lobby": {
@@ -131,7 +131,7 @@
 		"builders": [ "Amixalot", "SarahBearah" ]
 	},
 	"Paris": {
-		"tags": [ "Minigames", "Splegg", "Spleef" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Bri" ]
 	},
 	"Plots": {
@@ -147,8 +147,8 @@
 		"builders": [ "Panda" ]
 	},
 	"Revenge": {
-		"tags": [ "Minigames", "Team Deathmatch" ],
-		"builders": [ "Sparkess" ]
+		"tags": [ "Minigames" ],
+		"builders": [ "Sparkess", "Merchant_Ships", "Sukhy", "ThatGuyDino", "Squidlington_" ]
 	},
 	"Resource World Spawn": {
 		"tags": [ "Spawns" ],
@@ -159,15 +159,12 @@
 		"builders": [ "Thunder" ]
 	},
 	"Ruined Kingdom": {
-		"tags": [ "Minigames", "Infection" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Zizitt" ]
 	},
 	"Sodai Temple": {
-		"tags": [ "Minigames", "Murder" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "MinecraftKairi" ]
-	},
-	"South Warp": {
-		"builders": [ "Sparkess" ]
 	},
 	"Stashenleda": {
 		"tags": [ "Survival" ],
@@ -182,7 +179,7 @@
 		"builders": [ "Thunder", "Power", "Wakka", "Panda", "Arby", "MaxAlex2000", "Blast", "Hoots", "Rahamza", "Bri", "Locklan" ]
 	},
 	"StarFox": {
-		"tags": [ "Minigames", "Dogfighting" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Thunder" ]
 	},
 	"Tree Top": {
@@ -210,15 +207,14 @@
 		"builders": [ "Rahamza", "Midnight9746" ]
 	},
 	"Whiterun": {
-		"tags": [ "Minigames", "Free For All" ],
-		"builders": [ "Sparkess" ]
+		"tags": [ "Minigames" ],
+		"builders": [ "Sparkess", "Lexi", "Morphie" ]
 	},
 	"Whitmore Estate": {
 		"tags": [ "Survival" ],
 		"builders": [ "Power" ]
 	},
 	"Wither Arena": {
-		"tags": [ "" ],
 		"builders": [ "Amixalot", "Steve", "Blast" ]
 	},
 	"Yuletide at Hightide": {
