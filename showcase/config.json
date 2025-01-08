@@ -11,22 +11,25 @@
 		"tags": [ "Events" ],
 		"builders": [ "Thunder", "Linkinhood", "thepongodongo" ]
 	},
+	"Bear Fair 2021": {
+		"tags": [ "Events" ],
+		"builders": [ "Thunder", "Wakka", "Bri", "Power", "MaxAlex2000", "Lexi", "Arby", "Blast" ]
+	},
 	"Bridgeroni": {
 		"tags": [ "Survival" ],
 		"builders": [ "Valkyrie", "Savaroni", "ItsGili" ]
 	},
 	"Capshire Hold": {
 		"tags": [ "Survival" ],
-		"builders": [ "PureClarity" ],
-		"map": "https://map.projecteden.gg/#legacy1:-10656:66:-10763:228:-0.48:0.95:0:0:perspective"
+		"builders": [ "PureClarity" ]
 	},
-	"Cocytus Pain": {
-		"tags": [ "Minigames", "Paintball" ],
-		"builders": [ "Sparkess" ]
+	"ClassicPanda Plot": {
+		"tags": [ "Creative" ],
+		"builders": [ "ClassicPanda" ]
 	},
-	"Colormatic": {
-		"tags": [ "Minigames", "Paintball" ],
-		"builders": [ "DKing2001" ]
+	"Color Complex": {
+		"tags": [ "Creative" ],
+		"builders": [ "Valilla" ]
 	},
 	"Deaths Manor": {
 		"tags": [ "Build Contests", "Minigames", "Juggernaut" ],
@@ -68,6 +71,10 @@
 		"tags": [ "Siege", "Minigames" ],
 		"builders": [ "Steve", "Thunder" ]
 	},
+	"Eredhil": {
+		"tags": [ "Siege", "Minigames" ],
+		"builders": [ "Power", "Senmove" ]
+	},
 	"Etherion Valley": {
 		"tags": [ "Minigames", "Capture the Flag" ],
 		"builders": [ "Steve", "Zizitt" ]
@@ -91,6 +98,10 @@
 		"tags": [ "Build Contests" ],
 		"builders": [ "_leroy" ]
 	},
+	"Hub": {
+		"tags": [ "Spawns" ],
+		"builders": [ "Bri" ]
+	},
 	"Lazoria": {
 		"tags": [ "Minigames", "Infection" ],
 		"builders": [ "Wakka", "MaxAlex2000", "GoddessOfNyx" ]
@@ -107,9 +118,9 @@
 		"tags": [ "Minigames", "Hide and Seek" ],
 		"builders": [ "Thunder", "Wakka", "Valilla" ]
 	},
-	"Minigame lobby": {
-		"tags": [ "Minigames" ],
-		"builders": [ "Sparkess" ]
+	"Minigame Lobby": {
+		"tags": [ "Minigames", "Spawns" ],
+		"builders": [ "Bri" ]
 	},
 	"Missing at the Mansion": {
 		"tags": [ "Events" ],
@@ -127,6 +138,10 @@
 		"tags": [ "Creative" ],
 		"builders": [ "Power" ]
 	},
+	"Pride 2021": {
+		"tags": [ "Events" ],
+		"builders": [ "Bri" ]
+	},
 	"Pugmas Village 2018": {
 		"tags": [ "Events" ],
 		"builders": [ "Panda" ]
@@ -134,6 +149,14 @@
 	"Revenge": {
 		"tags": [ "Minigames", "Team Deathmatch" ],
 		"builders": [ "Sparkess" ]
+	},
+	"Resource World Spawn": {
+		"tags": [ "Spawns" ],
+		"builders": [ "Bri" ]
+	},
+	"Ravens Nest Estate": {
+		"tags": [ "Minigames", "Events" ],
+		"builders": [ "Thunder" ]
 	},
 	"Ruined Kingdom": {
 		"tags": [ "Minigames", "Infection" ],
@@ -146,8 +169,17 @@
 	"South Warp": {
 		"builders": [ "Sparkess" ]
 	},
+	"Stashenleda": {
+		"tags": [ "Survival" ],
+		"builders": [ "Toku" ]
+	},
 	"Old Survival Spawn": {
+		"tags": [ "Spawns" ],
 		"builders": [ "Steve", "Linkinhood" ]
+	},
+	"Survival Spawn": {
+		"tags": [ "Spawns" ],
+		"builders": [ "Thunder", "Power", "Wakka", "Panda", "Arby", "MaxAlex2000", "Blast", "Hoots", "Rahamza", "Bri", "Locklan" ]
 	},
 	"StarFox": {
 		"tags": [ "Minigames", "Dogfighting" ],
@@ -161,6 +193,22 @@
 		"tags": [ "Survival" ],
 		"builders": [ "Panda" ]
 	},
+	"Venice": {
+		"tags": [ "Minigames" ],
+		"builders": [ "Hoots" ]
+	},
+	"Village 2": {
+		"tags": [ "Minigames" ],
+		"builders": [ "Hoots", "MaxAlex2000" ]
+	},
+	"Vu Lan": {
+		"tags": [ "Events" ],
+		"builders": [ "Hoots" ]
+	},
+	"White Haven": {
+		"tags": [ "Minigames" ],
+		"builders": [ "Rahamza", "Midnight9746" ]
+	},
 	"Whiterun": {
 		"tags": [ "Minigames", "Free For All" ],
 		"builders": [ "Sparkess" ]
@@ -170,7 +218,8 @@
 		"builders": [ "Power" ]
 	},
 	"Wither Arena": {
-		"builders": [ "Panda" ]
+		"tags": [ "" ],
+		"builders": [ "Amixalot", "Steve", "Blast" ]
 	},
 	"Yuletide at Hightide": {
 		"tags": [ "Survival" ],
