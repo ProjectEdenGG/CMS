@@ -91,7 +91,7 @@
 		"builders": [ "Thunder", "Locklan" ]
 	},
 	"FSS Centaur": {
-		"tags": [ "Minigames", "Siege" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Thunder" ]
 	},
 	"Kodaverse": {
