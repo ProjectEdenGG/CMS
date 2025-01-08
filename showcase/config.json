@@ -28,7 +28,7 @@
 		"builders": [ "ClassicPanda" ]
 	},
 	"Color Complex": {
-		"tags": [ "Creative" ],
+		"tags": [ "Minigames" ],
 		"builders": [ "Valilla" ]
 	},
 	"Deaths Manor": {
@@ -72,7 +72,6 @@
 		"builders": [ "Steve", "Thunder" ]
 	},
 	"Eredhil": {
-		"tags": [ "Minigames" ],
 		"builders": [ "Power", "Senmove" ]
 	},
 	"Etherion Valley": {
