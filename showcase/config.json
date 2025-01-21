@@ -99,7 +99,7 @@
 	},
 	"Hub": {
 		"tags": [ "Spawns" ],
-		"builders": [ "Bri" ]
+		"builders": [ "Bri", "Power" ]
 	},
 	"Lazoria": {
 		"tags": [ "Minigames" ],
